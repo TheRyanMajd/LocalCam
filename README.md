@@ -1,4 +1,6 @@
-# LocalCam
+# LocalCam 
+<img width="100" height="100" alt="localcam_icon" src="https://github.com/user-attachments/assets/f6893cc6-520c-4307-b6f3-badf9162f649" />
+
 
 Vibe-coded an Android app to revive a 10+ year old phone as an IP camera.
 
