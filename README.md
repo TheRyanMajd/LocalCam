@@ -2,7 +2,7 @@
 <img width="100" height="100" alt="localcam_icon" src="https://github.com/user-attachments/assets/f6893cc6-520c-4307-b6f3-badf9162f649" />
 
 
-Vibe-coded an Android app to revive a 10+ year old phone as an IP camera. <br>
+Android app to revive a 10+ year old phone as an IP camera. <br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/9c47147d-0f16-4e74-9edc-a34ba2e6f276" />
 
 ---
@@ -18,6 +18,7 @@ Vibe-coded an Android app to revive a 10+ year old phone as an IP camera. <br>
   <img width="300" alt="Screenshot_20250714_124045" src="https://github.com/user-attachments/assets/201fafb8-663b-491e-a5aa-e9e1e9b00dc1" />
 </div>
 ---
+
 **Features:**
 - Zero-install: sideload APK → grant camera+mic → Start
 - Auto-discovers device IPv4 at runtime
